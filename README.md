@@ -4,7 +4,7 @@
   <b>AI/ML Enthusiast · GSoC Aspirant · Full-Stack Builder</b>
 </p>
 <p align="center">
-  📍 Ludhiana, India &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; 🐍 Python Dev
+  📍 Punjab &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; 🐍 Python Dev
 </p>
 
 ---
