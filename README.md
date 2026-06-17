@@ -22,7 +22,7 @@
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**Voyager Elite**](https://github.com/akshdeeps001/VoyagerElite) ✈️ | Luxury travel platform with AI chatbot (Aria) via Anthropic API | HTML, CSS, JS |
+| [**Voyager Elite**](https://github.com/akshdeeps001/Voyager-Elite-A-travel-Agency-Website) ✈️ | Luxury travel platform with AI chatbot (Aria) via Anthropic API | HTML, CSS, JS |
 
 ---
 
